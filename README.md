@@ -7,3 +7,6 @@ Equipe:
  - Victor Emanuel Pessoa da Silva
 
 O objetivo desse projeto é desenvolver um simples módulo para ser agregado ao kernel do Ubuntu, com e sem passagem de parâmetro.
+
+<h4> Link utilizado para a produção </h4>
+- https://tldp.org/LDP/lkmpg/2.6/html/lkmpg.html - The Linux Kernel Module Programming Guide
